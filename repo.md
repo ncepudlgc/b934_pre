@@ -69,4 +69,4 @@ Please create a sword called 'Magmaul' with the following features: the texture 
 
 ## PR链接
 
-待创建
+https://github.com/ncepudlgc/b934_pre/pull/1
