@@ -1,0 +1,23 @@
+# Git
+.git
+.gitignore
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+*.DotSettings.user
